@@ -57,7 +57,7 @@ export const config: WebdriverIO.Config = {
         // './src/specs/Accounts/accounts.mergeAccounts.spec.ts', 
          
         //  Reports:
-        // './src/specs/Reports/reports.messageTrackingReports.spec.ts',
+        './src/specs/Reports/reports.messageTrackingReports.spec.ts',
         //  './src/specs/Reports/reports.reportGenerateDownloadAndEmail.spec.ts', 
 
         // Tipline:
