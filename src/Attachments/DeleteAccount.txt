@@ -1,0 +1,19 @@
+Account,Role,Id,LastName
+Alison,Staff,232,Smith
+Alison,Staff,2322,Smith
+Annie,Staff,4343,McKay
+Alison,Principal,232,Smith
+Alison,Principal,2322,Smith
+Annie,Principal,4343,McKay
+Alison,Community Member,232,Smith
+Alison,Community Member,2322,Smith
+Annie,Community Member,4343,McKay
+Alison,Parent,232,Smith
+Alison,Parent,2322,Smith
+Annie,Parent,4343,McKay
+Alison,Sender,232,Smith
+Alison,Sender,2322,Smith
+Annie,Sender,4343,McKay
+Alison,Student,232,Smith
+Alison,Student,2322,Smith
+Annie,Student,4343,McKay

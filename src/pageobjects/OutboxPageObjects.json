@@ -1,0 +1,20 @@
+{
+"selectaMessage":"//a[contains(text(),'{messageSubject}')]",
+"detailsTab":"//li[@id='detailsTab']",
+"supportTab":"//li[@id='supportTab']",
+"successCount":"//img[@class='delivery-button'][@title='{deliveryMethod}']//following::a[contains(@class, 'success')]",
+"errorCount":"//img[@class='delivery-button'][@title='{deliveryMethod}']//following::a[contains(@class, 'error')]",
+"yourMessageText":"//span[contains(text(), 'Your Messages')]",
+"messageContent":"//*[contains(text(), '{messageContent}')]",
+"uhuraJobRow":"//div[@id='support']/table/tbody/tr/td[normalize-space()='{deliveryMode}']",
+"connectNotification":"//strong[normalize-space()='Connect Notifications']",
+"latestOutboxMessage":"//tr[@style='background-color:#CCFFCC']",
+"messageTrackingTabs":"//div[@id='tabs']",
+"verifyContentData":"//div[@class='message-content-area-content ng-pristine ng-untouched ng-valid ng-hide']",
+"contentTab":"//li[@id='contentTab']",
+"rssFeedText":"//div[@class='pl-post-description']",
+"printMessagesButton":"//button[@type='button' and @class='button-medium-wide']",
+"printLayoutType":"//div/select[@id='exportPrintLayoutID']",
+"okButtonprintLayoutType":"//span[@class='ui-button-text'][contains(text(),'OK')]",
+"getBatchID":"//div[@style='float:left;font-size:.8em']"
+}

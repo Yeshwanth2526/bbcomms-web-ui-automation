@@ -1,0 +1,4 @@
+{
+    "AccountsButton": "//a[@href='/main/accounts/manage']",
+    "NotificationButton": "//i[@class='fa fa-times']"
+}

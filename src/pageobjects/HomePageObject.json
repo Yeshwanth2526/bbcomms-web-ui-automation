@@ -1,0 +1,167 @@
+{
+  "Menus": {
+    "HomeMenu": {
+      "xpath": "//a[@href='/main/']",
+      "title": "Home - Blackboard",
+      "subMenus": {}
+    },
+    "MessagesMenu": {
+      "xpath": "//a[@href='/main/messages']",
+      "title": "Send - Blackboard",
+      "subMenus": {
+        "Send": {
+          "xpath": "//a[@href='/main/messages/send']",
+          "title": "Send - Blackboard"
+        },
+        "Inbox": {
+          "xpath": "//a[@href='/main/messages/inbox']",
+          "title": "Inbox - Blackboard"
+        },
+        "Outbox": {
+          "xpath": "//a[@href='/main/messages/outbox']",
+          "title": "Outbox - Blackboard"
+        },
+        "Groups": {
+          "xpath": "//a[@href='/main/messages/groups']",
+          "title": "Groups - Blackboard"
+        },
+        "Automated Messages": {
+          "xpath": "//a[@href='/main/messages/system']",
+          "title": "Automated Messages - Blackboard"
+        },
+        "Surveys": {
+          "xpath": "//a[@href='/main/messages/surveys']",
+          "title": "Surveys - Blackboard"
+        },
+        "Library": {
+          "xpath": "//a[@href='/main/messages/library']",
+          "title": "Library - Blackboard"
+        },
+        "Message Tracking": {
+          "xpath": "//a[@href='/main/messages/message-tracking']",
+          "title": "Message Tracking - Blackboard"
+        }
+      }
+    },
+    "SocialMenu": {
+      "xpath": "//a[@href='/main/social/activity']",
+      "title": "Activity - Blackboard",
+      "subMenus": {
+        "Activity": {
+          "xpath": "//a[@href='/main/social/activity']",
+          "title": "Activity - Blackboard"
+        },
+        "Discover": {
+          "xpath": "//a[@href='/main/social/discover']",
+          "title": "Discover - Blackboard"
+        },
+        "Just Now": {
+          "xpath": "//a[@href='/main/social/trending']",
+          "title": "Just Now - Blackboard"
+        },
+        "VIPs": {
+          "xpath": "//a[@href='/main/social/vips']",
+          "title": "Vips - Blackboard"
+        },
+        "Influence": {
+          "xpath": "//a[@href='/main/social/influence']",
+          "title": "Influence - Blackboard"
+        }
+      }
+    },
+    "ClassesMenu": {
+      "xpath": "//a[@href='/main/classes']",
+      "title": "Class Info - Blackboard",
+      "subMenus": {
+        "Class Info": {
+          "xpath": "//a[@href='/main/classes/class-info']",
+          "title": "Class Info - Blackboard"
+        }
+      }
+    },
+    "AccountsMenu": {
+      "xpath": "//a[@href='/main/accounts/manage']",
+      "title": "Manage Accounts - Blackboard",
+      "subMenus": {
+        "Manage Accounts": {
+          "xpath": "//a[@href='/main/accounts/manage']",
+          "title": "Manage Accounts - Blackboard"
+        },
+        "Upload Accounts": {
+          "xpath": "//a[@href='/main/accounts/upload-accounts']",
+          "title": "Upload Accounts - Blackboard"
+        },
+        "Generate Passwords": {
+          "xpath": "//a[@href='/main/accounts/generate-passwords']",
+          "title": "Generate Passwords - Blackboard"
+        },
+        "Upload Photos": {
+          "xpath": "//a[@href='/main/accounts/upload-photos']",
+          "title": "Upload Photos - Blackboard"
+        },
+        "Upload Student Data": {
+          "xpath": "//a[@href='/main/accounts/upload-student-data']",
+          "title": "Upload Student Data - Blackboard"
+        }
+      }
+    },
+    "ReportsMenu": {
+      "xpath": "//a[@href='/main/reports/all']",
+      "title": "My Reports - Blackboard",
+      "subMenus": {
+        "My Reports": {
+          "xpath": "//a[@href='/main/reports/all']",
+          "title": "My Reports - Blackboard"
+        },
+        "Tip Manager": {
+          "xpath": "//a[@href='/main/reports/tip-manager']",
+          "title": "Tip Manager - Blackboard"
+        },
+        "Message Tracking": {
+          "xpath": "//a[@href='/main/reports/message-tracking']",
+          "title": "Message Tracking - Blackboard"
+        }
+      }
+    },
+    "SettingsMenu": {
+      "xpath": "//a[@href='/main/settings/org-config']",
+      "title": "Organization Config - Blackboard",
+      "subMenus": {
+        "Organization Config": {
+          "xpath": "//a[@href='/main/settings/org-config']",
+          "title": "Organization Config - Blackboard"
+        },
+        "App Config": {
+          "xpath": "//a[@href='/main/settings/app-config']",
+          "title": "App Config - Blackboard"
+        },
+        "Social Media": {
+          "xpath": "//a[@href='/main/settings/social-media']",
+          "title": "Social Media - Blackboard"
+        },
+        "Global Settings": {
+          "xpath": "//a[@href='/main/settings/global']",
+          "title": "Global Settings - Blackboard"
+        },
+        "Data Config": {
+          "xpath": "//a[@href='/main/settings/data-config']",
+          "title": "Data Config - Blackboard"
+        }
+      }
+    },
+    "ImportsMenu": {
+      "xpath": "//span[@class='un-button un-link'][text()='Imports']",
+      "title": "Imports - Blackboard",
+      "subMenus": {}
+    }
+  },
+  "SuccessHeader": "//div[@class='text-form-submission-results-ok js-result'][@id='displayResultsSuccesscontent']",
+  "ErrorHeader": "//div[@class='text-form-submission-results-error js-result'][@id='displayResultsErrorcontent']",
+  "ErrorContent": "//div[@class='text-form-submission-results-error js-result'][@id='displayResultsErrorcontent']//td[2]",
+  "WarningHeader": "//div[@class='text-form-submission-results-warning js-result'][@id='displayResultsWarningcontent']",
+  "warningClose": "//i[@class='fa fa-times']",
+  "signOut": "//a[@href='javascript:LogoutMethod()']",
+  "accountSearch": "//input[@id='searchAccountsWidgetTextInput']",
+  "accountSearchResultLoader": "//div[@id='searchResultsDialog']/center[contains(text(), 'Searching')]",
+  "accountSearchResultAccount": "//div[@id='searchResultsTabs']//following::span[normalize-space()='{user}']"
+}

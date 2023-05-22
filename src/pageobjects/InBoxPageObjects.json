@@ -1,0 +1,3 @@
+{
+    "selectaMessage": "//a[contains(text(),'{messageSubject}')]"
+}

@@ -1,0 +1,28 @@
+Message Tracking Report
+Created On:,"Oct 31, 2022"
+School:,All
+Date range:,"Oct 23, 2022 - Oct 29, 2022"
+Delivery time:,"active, pending, complete"
+Message category:,All
+Deliver via:,All
+""
+ID,Message,Type,Sender,School,Start Time,Status,Delivered,Total,Phone Delivered,Phone Attempted/Completed,Email Delivered,Email Attempted/Completed,Text/SMS Delivered,Text/SMS Attempted/Completed
+2001085423,Oct 25 2022 01:43:51 : Automation testing for Twitter Message with GIF and JPEG Attachment,Twitter,Parlant Technology Support,SPL9 School District 99-2,"Oct 24, 2022 04:14 PM",Posted,0,0,0,0,0,0,0,0
+2001085424,Oct 25 2022 01:53:51 : Automation testing for Twitter Message with GIF and JPEG Attachment,Twitter,Parlant Technology Support,SPL9 School District 99-2,"Oct 24, 2022 04:24 PM",Posted,0,0,0,0,0,0,0,0
+2001085425,test for sms and phone,"Phone,Text/SMS",Parlant Technology Support,SPL9 School District 99-2,"Oct 26, 2022 03:37 AM",Posted,0,0,0,0,0,0,0,0
+2001085426,Testing,"Phone,Email,Text/SMS",Parlant Technology Support,SPL9 School District 99-2,"Oct 27, 2022 01:20 PM",Complete,0,6,0,6,0,6,0,6
+2001085427,Testing,"Phone,Email,Text/SMS",Parlant Technology Support,SPL9 School District 99-2,"Oct 28, 2022 12:30 AM",Complete,1,6,1,6,0,6,0,6
+2001085428,Testing,"Phone,Email,Text/SMS",Parlant Technology Support,SPL9 School District 99-2,"Oct 28, 2022 12:39 AM",Complete,1,5,1,5,0,5,0,5
+2001085429,Testing,"Phone,Email,Text/SMS",Parlant Technology Support,SPL9 School District 99-2,"Oct 28, 2022 01:29 AM",Complete,2,7,2,7,0,7,1,7
+2001085430,Testing,"Phone,Email,Text/SMS",Parlant Technology Support,SPL9 School District 99-2,"Oct 28, 2022 01:52 AM",Complete,2,10,2,10,0,10,0,10
+2001085431,testing msg piechart,"Phone,Text/SMS",Parlant Technology Support,SPL9 School District 99-2,"Oct 28, 2022 04:04 AM",Complete,1,1,1,1,0,0,0,1
+2001085432,kite testing,"Phone,Text/SMS",Parlant Technology Support,SPL9 School District 99-2,"Oct 28, 2022 04:23 AM",Complete,1,1,1,1,0,0,0,1
+2001085433,test for only phone,"Phone,Email,Text/SMS",Parlant Technology Support,SPL9 School District 99-2,"Oct 28, 2022 05:15 AM",Complete,1,1,1,1,1,1,0,1
+2001085434,test for phone,"Phone,Text/SMS",Parlant Technology Support,SPL9 School District 99-2,"Oct 28, 2022 05:43 AM",Complete,1,1,1,1,0,0,0,1
+2001085435,sorry testin,"Phone,Text/SMS",Parlant Technology Support,SPL9 School District 99-2,"Oct 28, 2022 05:45 AM",Complete,1,1,1,1,0,0,0,1
+2001085436,Testing........,"Phone,Email,Text/SMS",Parlant Technology Support,SPL9 School District 99-2,"Oct 28, 2022 06:47 AM",Complete,5,11,2,11,4,11,1,11
+2001085437,Testing,"Phone,Email,Text/SMS",Parlant Technology Support,SPL9 School District 99-2,"Oct 28, 2022 07:21 AM",Complete,5,17,2,17,4,17,1,17
+2001085438,Testing,"Phone,Email,Text/SMS",Parlant Technology Support,SPL9 School District 99-2,"Oct 28, 2022 07:46 AM",Complete,5,11,2,11,4,11,1,11
+2001085439,world cup,"Phone,Text/SMS",Parlant Technology Support,SPL9 School District 99-2,"Oct 28, 2022 07:50 AM",Complete,1,1,1,1,0,0,0,1
+2001085440,testing_report,"Phone,Email,Text/SMS",Parlant Technology Support,SPL9 School District 99-2,"Oct 28, 2022 07:51 AM",Complete,3,3,0,3,3,3,0,3
+2001085441,testing_report1,"Phone,Email,Text/SMS",Parlant Technology Support,SPL9 School District 99-2,"Oct 28, 2022 08:43 AM",Complete,3,3,0,3,3,3,0,3

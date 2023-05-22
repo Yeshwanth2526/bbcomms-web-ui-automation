@@ -1,0 +1,268 @@
+Bad Phone/Email Report
+Created On:,"Nov 01, 2022"
+School:,All schools
+Status:,All statuses
+Types:,All types
+Roles:,All roles
+""
+Organization,Organization Type,Parent Name,Bad Email Addresses,Total Email Addresses,Bad/Total Email,Bad Phone Numbers,Total Phone Numbers,Bad/Total Phone,Bad SMS Numbers,Total SMS Numbers,Bad/Total SMS
+Automation Org - Do Not Delete,High,SPL9 School District 99-3 R 10/39,0,312,0.00%,102,400,25.50%,0,135,0.00%
+Automation institute,High,SPL9 Elementary,0,49,0.00%,1,22,4.55%,0,3,0.00%
+Bayside High School,High,SPL9 School District 99-3 R 10/39,0,118,0.00%,1,42,2.38%,2,41,4.88%
+SPL9 Elementary,Elementary,SPL9 School District 99-3 R 10/39,0,8,0.00%,1,6,16.67%,2,4,50.00%
+SPL9 Middle School,Middle,SPL9 School District 99-3 R 10/39,0,13,0.00%,3,14,21.43%,4,11,36.36%
+SPL9 School District 99-3 R 10/39,District,Blackboard System (PT 99-3),0,148,0.00%,8,103,7.77%,3,43,6.98%
+St. Antony's Higher Secondary School,High,SPL9 School District 99-3 R 10/39,0,10,0.00%,3,10,30.00%,0,0,0.00%
+Sunnydale High School,High,SPL9 School District 99-3 R 10/39,0,30,0.00%,1,28,3.57%,0,0,0.00%
+Test SPL9 High School,High,SPL9 School District 99-3 R 10/39,2,4401,0.05%,115,577,19.93%,11,64,17.19%
+Velammal,High,SPL9 School District 99-3 R 10/39,0,18,0.00%,6,6,100.00%,0,0,0.00%
+""
+""
+""
+Recipient,ID,Role,Student,Student ID,Organization,Address,New Number,Date Flagged,Date Deactivated,Has Good Phone,Has Good Email,Has Good SMS,Deactivated,Flagged,Invalid
+(260) 2412497,A927BB1998BA58FE7F07525400ED5E24,Recipient,,,Test SPL9 High School,260-2412497,,,"Jun 28, 2016",No,No,No,Yes,No,No
+1234567890,BD614A1B5E0B4F467F07525400ED5E24,Recipient,,,Test SPL9 High School,123-4567890,,"Jul 23, 2020","Aug 28, 2020",No,No,No,Yes,Yes,No
+"1457b, 1457b",C111C974132E615A6F0B5254006BD586,Community Member,,,SPL9 School District 99-3 R 10/39,5211214454,,"May 10, 2022",,No,Yes,No,No,Yes,No
+"1831pr, 1831pr",1831pr,Parent,,,SPL9 School District 99-3 R 10/39,1234567890,,"Jul 23, 2020","Aug 28, 2020",No,No,No,Yes,Yes,No
+"1student, 1student",1student,Student,,,Test SPL9 High School,1234567890,,"Jul 23, 2020","Aug 28, 2020",Yes,Yes,No,Yes,Yes,No
+"22, PA",parent22,Parent,,,"SPL9 Elementary, Test SPL9 High School",2201125640,,"May 18, 2022",,No,No,No,No,Yes,No
+260.241.2497,39CF440F989A58FE7F07525400ED5E24,Recipient,,,Test SPL9 High School,260-2412497,,,"Jun 28, 2016",No,No,No,Yes,No,No
+801-607-2825,9CBF098E98B858FE7F07525400ED5E24,Recipient,,,Test SPL9 High School,801-6072825,,"Mar 07, 2017",,No,No,No,No,Yes,No
+8014548444,BDDC9DF25E0B4F467F07525400ED5E24,Recipient,,,Test SPL9 High School,801-4548444,,"Apr 20, 2017",,No,No,No,No,Yes,No
+"Abarquez, Barry",509809,Student,,,Test SPL9 High School,5550131,,,,Yes,Yes,Yes,No,No,Yes
+"Abi, Anderson",88,Student,,,Automation Org - Do Not Delete,9813253,,,,Yes,Yes,Yes,No,No,Yes
+"Adair, Tim",2250002,Staff,,,Test SPL9 High School,801-123-0147,,"Sep 13, 2021",,Yes,No,No,No,Yes,No
+"Adelphin, Fenelon",F377FB60989658FE7F07525400ED5E24,Recipient,,,Test SPL9 High School,954-2135070,,"Apr 20, 2017","May 18, 2020",No,No,No,Yes,Yes,No
+"Administrator #2Administrator, SPL9",spl9admin,District Administrator,,,SPL9 School District 99-3 R 10/39,7767766677,,"Sep 13, 2021",,Yes,Yes,Yes,No,Yes,No
+"Alex, Madera",11C1C59AF61479F17F07525400ED5E24,Recipient,,,Test SPL9 High School,954-2572797,,,"Mar 05, 2022",No,No,No,Yes,No,No
+"Alicia, Copeland",1374AECEF6FC79F17F07525400ED5E24,Recipient,,,Test SPL9 High School,954-7083612,,"Apr 20, 2017",,No,No,No,No,Yes,No
+"All, Invalid",invalidall,District Administrator,,,SPL9 School District 99-3 R 10/39,1111111111,,"Sep 13, 2021",,Yes,Yes,No,No,Yes,No
+"Alphonse, Kristen",76,Student,,,Automation Org - Do Not Delete,9813253,,,,Yes,Yes,Yes,No,No,Yes
+"Anaya, Austin",62,Student,,,Automation Org - Do Not Delete,9813253,,,,Yes,Yes,Yes,No,No,Yes
+"Anbal, Vaquiz",EA5715B498B058FE7F07525400ED5E24,Recipient,,,Test SPL9 High School,954-5346577,,"Apr 20, 2017",,No,No,No,No,Yes,No
+"Andrea, Murphy",40317BF598A158FE7F07525400ED5E24,Recipient,,,Test SPL9 High School,954-3485201,,,"Dec 22, 2016",No,No,No,Yes,No,No
+"Angela, Agusti",9563FCFFF65379F17F07525400ED5E24,Recipient,,,Test SPL9 High School,305-9789657,,,"Aug 01, 2018",No,No,No,Yes,No,No
+"Angela, Williams",5DC59F3B98AA58FE7F07525400ED5E24,Recipient,,,Test SPL9 High School,954-6515343,,,"Oct 23, 2016",No,No,No,Yes,No,No
+"Angella, Malcolm",7C93417B98A158FE7F07525400ED5E24,Recipient,,,Test SPL9 High School,954-6655466,,,"May 28, 2016",No,No,No,Yes,No,No
+"Aura, Samsfort",F20E0EAEF70B79F17F07525400ED5E24,Recipient,,,Test SPL9 High School,954-9277904,,,"Aug 26, 2016",No,No,No,Yes,No,No
+"Badri, Cimone",16,Student,,,Automation Org - Do Not Delete,9813253,,,,Yes,Yes,Yes,No,No,Yes
+"Bairavi, Samantha",67,Student,,,Automation Org - Do Not Delete,9813253,,,,Yes,Yes,Yes,No,No,Yes
+"Bala, Vernell",68,Student,,,Automation Org - Do Not Delete,9813253,,,,Yes,Yes,Yes,No,No,Yes
+"BalaMurugan, Kalie",81,Student,,,Automation Org - Do Not Delete,9813253,,,,Yes,Yes,Yes,No,No,Yes
+"Balakrishna, Casey",72,Student,,,Automation Org - Do Not Delete,9813253,,,,Yes,Yes,Yes,No,No,Yes
+"Balakrishna, Nikoluas",73,Student,,,Automation Org - Do Not Delete,9813253,,,,Yes,Yes,Yes,No,No,Yes
+"Balambika, Montavius",77,Student,,,Automation Org - Do Not Delete,9813253,,,,Yes,Yes,Yes,No,No,Yes
+"Balambu, Jacob",79,Student,,,Automation Org - Do Not Delete,9813253,,,,Yes,Yes,Yes,No,No,Yes
+"Balan, Brittany",95,Student,,,Automation Org - Do Not Delete,9813253,,,,Yes,Yes,Yes,No,No,Yes
+"Balavan, Jammie",97,Student,,,Automation Org - Do Not Delete,9813253,,,,Yes,Yes,Yes,No,No,Yes
+"Banu, Dejon",20,Student,,,Automation Org - Do Not Delete,9813253,,,,Yes,Yes,Yes,No,No,Yes
+"Bermelyn, Maise",279FB309A8DC4F4C7F07525400ED5E24,Recipient,,,Test SPL9 High School,754-2441635,,,"Jun 13, 2016",No,No,No,Yes,No,No
+"Best, Tino",tino.best,Teacher,,,St. Antony's Higher Secondary School,202-981-3256,,"Oct 18, 2022",,No,Yes,No,No,Yes,No
+"Beverly, Parks",745CD80CF5F979F17F07525400ED5E24,Recipient,,,Test SPL9 High School,954-2409909,,,"Jun 12, 2016",No,No,No,Yes,No,No
+"Biju, Katelyn",36,Student,,,Automation Org - Do Not Delete,9813253,,,,Yes,Yes,Yes,No,No,Yes
+"Bindhu, Breonna",63,Student,,,Automation Org - Do Not Delete,9813253,,,,Yes,Yes,Yes,No,No,Yes
+"Bohn, Mary",adminmergetest,School Administrator,,,Test SPL9 High School,801-123-0171,,"May 18, 2022",,Yes,Yes,No,No,Yes,No
+"Brinda, Sierra",66,Student,,,Automation Org - Do Not Delete,9813253,,,,Yes,Yes,Yes,No,No,Yes
+"Caha, Sabrina",21,Student,,,Automation Org - Do Not Delete,9813253,,,,Yes,Yes,Yes,No,No,Yes
+"Caityaka, Tracon",98,Student,,,Automation Org - Do Not Delete,9813253,,,,Yes,Yes,Yes,No,No,Yes
+"Caka, De-Mondre",82,Student,,,Automation Org - Do Not Delete,9813253,,,,Yes,Yes,Yes,No,No,Yes
+"Candani, Maliek",22,Student,,,Automation Org - Do Not Delete,9813253,,,,Yes,Yes,Yes,No,No,Yes
+"Carlos, Echevarria",D919BB6FF5F779F17F07525400ED5E24,Recipient,,,Test SPL9 High School,786-2294636,,,"Oct 10, 2022",No,No,No,Yes,No,No
+"Cevin, Brittney",35,Student,,,Automation Org - Do Not Delete,9813253,,,,Yes,Yes,Yes,No,No,Yes
+"Charlotee, Rolle-Archer",F7935B55989658FE7F07525400ED5E24,Recipient,,,Test SPL9 High School,954-5156326,,,"Nov 06, 2019",No,No,No,Yes,No,No
+"Christina, Johnekins",D0D63697F74179F17F07525400ED5E24,Recipient,,,Test SPL9 High School,954-6654918,,,"Nov 15, 2016",No,No,No,Yes,No,No
+"Clarence, Franklin",F7D64999F74079F17F07525400ED5E24,Recipient,,,Test SPL9 High School,786-5155534,,"Sep 08, 2016",,No,No,No,No,Yes,No
+"Claudette, Campbell",AF5F35EBF5FD79F17F07525400ED5E24,Recipient,,,Test SPL9 High School,954-5818092,,"Apr 20, 2017",,No,No,No,No,Yes,No
+"Claudine, Kravetz",2439EA20989C58FE7F07525400ED5E24,Recipient,,,Test SPL9 High School,954-2406711,,,"Aug 23, 2019",No,No,No,Yes,No,No
+"Coke, Henry",40,Student,,,Automation Org - Do Not Delete,9813253,,,,Yes,Yes,Yes,No,No,Yes
+"Cotton, Kia",51,Student,,,Automation Org - Do Not Delete,9813253,,,,Yes,Yes,Yes,No,No,Yes
+"Cox, Dylan",52,Student,,,Automation Org - Do Not Delete,9813253,,,,Yes,Yes,Yes,No,No,Yes
+"Cynthia, Parrish",1B51B18898A858FE7F07525400ED5E24,Recipient,,,Test SPL9 High School,954-2457682,786-971-7036,,"Sep 23, 2017",No,No,No,Yes,No,No
+"Damia, Kerr",3F5E2D85F71579F17F07525400ED5E24,Recipient,,,Test SPL9 High School,786-5877459,,,"Oct 24, 2017",No,No,No,Yes,No,No
+"Dawn, Barker",872BD8E398B658FE7F07525400ED5E24,Recipient,,,Test SPL9 High School,954-8894659,,,"Aug 02, 2022",No,No,No,Yes,No,No
+"Daylssa, Serra",C368721998AA58FE7F07525400ED5E24,Recipient,,,Test SPL9 High School,954-3816104,,,"May 05, 2022",No,No,No,Yes,No,No
+"Dinesh, Jocelyn",45,Student,,,Automation Org - Do Not Delete,9813253,,,,Yes,Yes,Yes,No,No,Yes
+"Dinesh, Robyn",46,Student,,,Automation Org - Do Not Delete,9813253,,,,Yes,Yes,Yes,No,No,Yes
+"Donna, Chambless",82FEDB78989A58FE7F07525400ED5E24,Recipient,,,Test SPL9 High School,954-7298544,,,"Oct 19, 2016",No,No,No,Yes,No,No
+"Donna, Pushinsky",E8DB5DFFF6E679F17F07525400ED5E24,Recipient,,,Test SPL9 High School,954-8543533,,"Apr 20, 2017",,No,No,No,No,Yes,No
+"Dorenda, Lambert",6B17337F98B658FE7F07525400ED5E24,Recipient,,,Test SPL9 High School,954-4629108,,"Apr 20, 2017",,No,No,No,No,Yes,No
+"Easwar, Kaiya",17,Student,,,Automation Org - Do Not Delete,9813253,,,,Yes,Yes,Yes,No,No,Yes
+"Eddie, Taylor",27,Student,,,Automation Org - Do Not Delete,9813253,,,,Yes,Yes,Yes,No,No,Yes
+"Eona, Petit Homme",C4A4CE4BF73C79F17F07525400ED5E24,Recipient,,,Test SPL9 High School,954-2266154,954-639-2635,"Apr 20, 2017","May 04, 2018",No,No,No,Yes,Yes,No
+"Esthere, Paris",13790CF6A8DD4F4C7F07525400ED5E24,Recipient,,,Test SPL9 High School,954-2976921,,"Apr 20, 2017",,No,No,No,No,Yes,No
+"Evangelina, Francois",933C640AF75279F17F07525400ED5E24,Recipient,,,Test SPL9 High School,561-8604599,561-729-6152,,"Sep 19, 2017",No,No,No,Yes,No,No
+"Falgu, Jared",12,Student,,,Automation Org - Do Not Delete,9813253,,,,Yes,Yes,Yes,No,No,Yes
+"Farauk, Elijah",41,Student,,,Automation Org - Do Not Delete,9813253,,,,Yes,Yes,Yes,No,No,Yes
+"Felix, Frias",0CCAEFB5F6CC79F17F07525400ED5E24,Recipient,,,Test SPL9 High School,954-6517146,,"Apr 20, 2017","Jun 05, 2022",No,No,No,Yes,Yes,No
+"Francois, Salomon",B59F7C5AA8DE4F4C7F07525400ED5E24,Recipient,,,Test SPL9 High School,786-2509755,,"Apr 20, 2017",,No,No,No,No,Yes,No
+"Freddy, Krystal",64,Student,,,Automation Org - Do Not Delete,9813253,,,,Yes,Yes,Yes,No,No,Yes
+"Frederick, Morris",3C33366498A158FE7F07525400ED5E24,Recipient,,,Test SPL9 High School,954-6635188,,,"Jul 31, 2017",No,No,No,Yes,No,No
+"Ganges, My'Quan",75,Student,,,Automation Org - Do Not Delete,9813253,,,,Yes,Yes,Yes,No,No,Yes
+"Gangguly, John",59,Student,,,Automation Org - Do Not Delete,9813253,,,,Yes,Yes,Yes,No,No,Yes
+"Giri, Belen",56,Student,,,Automation Org - Do Not Delete,9813253,,,,Yes,Yes,Yes,No,No,Yes
+"Guna, Destinee",30,Student,,,Automation Org - Do Not Delete,9813253,,,,Yes,Yes,Yes,No,No,Yes
+"Hanshit, Avery",69,Student,,,Automation Org - Do Not Delete,9813253,,,,Yes,Yes,Yes,No,No,Yes
+"Hari, Conner",96,Student,,,Automation Org - Do Not Delete,9813253,,,,Yes,Yes,Yes,No,No,Yes
+"Haritha, Briyonna",94,Student,,,Automation Org - Do Not Delete,9813253,,,,Yes,Yes,Yes,No,No,Yes
+"Harry, Mykal",55,Student,,,Automation Org - Do Not Delete,9813253,,,,Yes,Yes,Yes,No,No,Yes
+"Haru, Tyquashia",50,Student,,,Automation Org - Do Not Delete,9813253,,,,Yes,Yes,Yes,No,No,Yes
+"Hector, Colchado",D5C6F51198B558FE7F07525400ED5E24,Recipient,,,Test SPL9 High School,954-6385651,954-934-5385,,"Apr 05, 2017",No,No,No,Yes,No,No
+"Himelia, Keelan",58,Student,,,Automation Org - Do Not Delete,9813253,,,,Yes,Yes,Yes,No,No,Yes
+"Himiya, Ayden",61,Student,,,Automation Org - Do Not Delete,9813253,,,,Yes,Yes,Yes,No,No,Yes
+"Ingrid, Francois",A88BD899989958FE7F07525400ED5E24,Recipient,,,Test SPL9 High School,561-2486050,,"Apr 20, 2017",,No,No,No,No,Yes,No
+"Ingride, Francois",C7DDE960F73F79F17F07525400ED5E24,Recipient,,,Test SPL9 High School,561-2486050,,"Apr 20, 2017",,No,No,No,No,Yes,No
+"Ivonne, Hidalgo",6D18CEDFF6CF79F17F07525400ED5E24,Recipient,,,Test SPL9 High School,786-3290189,,,"Jun 28, 2022",No,No,No,Yes,No,No
+"Jacquline, Toyloy",C2FCF80EF6F779F17F07525400ED5E24,Recipient,,,Test SPL9 High School,754-2444006,,"Apr 20, 2017","Jan 17, 2021",No,No,No,Yes,Yes,No
+"Jeanne, Decoste",2E8E499DF67279F17F07525400ED5E24,Recipient,,,Test SPL9 High School,954-8251795,754-423-3330,,"Sep 17, 2021",No,No,No,Yes,No,No
+"Jerry, Daysha",28,Student,,,Automation Org - Do Not Delete,9813253,,,,Yes,Yes,Yes,No,No,Yes
+"Jessica, Young",80F311AF98A958FE7F07525400ED5E24,Recipient,,,Test SPL9 High School,954-7931512,,,"Mar 17, 2019",No,No,No,Yes,No,No
+"Joan, Amoroso",E5E31697F66B79F17F07525400ED5E24,Recipient,,,Test SPL9 High School,954-6290949,,"Apr 20, 2017",,No,No,No,No,Yes,No
+"Joann, Jackson",C4F074E9F62B79F17F07525400ED5E24,Recipient,,,Test SPL9 High School,954-5240239,,"Apr 20, 2017",,No,No,No,No,Yes,No
+"Joanne, Brezault",E01C5EFC989E58FE7F07525400ED5E24,Recipient,,,Test SPL9 High School,954-5596579,,"Apr 20, 2017",,No,No,No,No,Yes,No
+"John, Malcolm",84,Student,,,Automation Org - Do Not Delete,9813253,,,,Yes,Yes,Yes,No,No,Yes
+"Joseph, Najee",74,Student,,,Automation Org - Do Not Delete,9813253,,,,Yes,Yes,Yes,No,No,Yes
+"Jovina, TaMarcus",49,Student,,,Automation Org - Do Not Delete,9813253,,,,Yes,Yes,Yes,No,No,Yes
+"Julieann, Gray",CAD844B8F61379F17F07525400ED5E24,Recipient,,,Test SPL9 High School,954-8222709,,"Apr 20, 2017",,No,No,No,No,Yes,No
+"Jyothy, Avery",103,Student,,,Automation Org - Do Not Delete,9813253,,,,Yes,Yes,Yes,No,No,Yes
+"Jyothy, Mason",104,Student,,,Automation Org - Do Not Delete,9813253,,,,Yes,Yes,Yes,No,No,Yes
+"Karine, Brito",69663A1B98AC58FE7F07525400ED5E24,Recipient,,,Test SPL9 High School,770-2928800,470-276-2492,,"Nov 07, 2016",No,No,No,Yes,No,No
+"Kasheta, Smith",319F28A298AC58FE7F07525400ED5E24,Recipient,,,Test SPL9 High School,954-5603736,,"Apr 20, 2017","Dec 14, 2021",No,No,No,Yes,Yes,No
+"Katauna, Miller",3503E5FB98AA58FE7F07525400ED5E24,Recipient,,,Test SPL9 High School,954-5884256,,,"Jan 04, 2017",No,No,No,Yes,No,No
+"Kaullis, Marshall",2EE65AC5F6FE79F17F07525400ED5E24,Recipient,,,Test SPL9 High School,850-3224576,,,"May 16, 2018",No,No,No,Yes,No,No
+"Kedes, Belony",DD2FF94BF6FD79F17F07525400ED5E24,Recipient,,,Test SPL9 High School,754-2354721,,"Apr 20, 2017",,No,No,No,No,Yes,No
+"Keisha, Malcolm",F7820ADF98B158FE7F07525400ED5E24,Recipient,,,Test SPL9 High School,954-5346631,561-631-2660,,"Jan 24, 2020",No,No,No,Yes,No,No
+"Kendra, Miller",DC5CF397F6F879F17F07525400ED5E24,Recipient,,,Test SPL9 High School,954-8301416,,,"Aug 24, 2019",No,No,No,Yes,No,No
+"Kim, Grace",61BE25ED98B858FE7F07525400ED5E24,Recipient,,,Test SPL9 High School,954-3942774,,"Apr 20, 2017",,No,No,No,No,Yes,No
+"Kim, Rehanna",Rehanna,Community Member,,,"Automation institute, Bayside High School, SPL9 School District 99-3 R 10/39",0192452389,,"May 10, 2022",,No,Yes,Yes,No,Yes,No
+"Labady, Ms.",DBBBFBE1F65379F17F07525400ED5E24,Recipient,,,Test SPL9 High School,786-9211779,,"Apr 20, 2017",,No,No,No,No,Yes,No
+"Lakshmi, Devonta",86,Student,,,Automation Org - Do Not Delete,9813253,,,,Yes,Yes,Yes,No,No,Yes
+"Last, First",E93D6DF698A258FE7F07525400ED5E24,Recipient,,,Test SPL9 High School,801-6070000,,"Mar 07, 2017",,No,No,No,No,Yes,No
+"Lazara, Hernandez",38B682B898AC58FE7F07525400ED5E24,Recipient,,,Test SPL9 High School,954-5499635,954-744-6213,,"Jul 09, 2016",No,No,No,Yes,No,No
+"Lifane, Senatus",2BF8094198B858FE7F07525400ED5E24,Recipient,,,Test SPL9 High School,954-5346389,,,"Apr 17, 2019",No,No,No,Yes,No,No
+"Lion, Diego",100,Student,,,Automation Org - Do Not Delete,9813253,,,,Yes,Yes,Yes,No,No,Yes
+"Lion, Emma",102,Student,,,Automation Org - Do Not Delete,9813253,,,,Yes,Yes,Yes,No,No,Yes
+"Lion, Isabella",101,Student,,,Automation Org - Do Not Delete,9813253,,,,Yes,Yes,Yes,No,No,Yes
+"Loga, Regina",18,Student,,,Automation Org - Do Not Delete,9813253,,,,Yes,Yes,Yes,No,No,Yes
+"Logu, Jordan",43,Student,,,Automation Org - Do Not Delete,9813253,,,,Yes,Yes,Yes,No,No,Yes
+"Lori, Salisbury",069D809CF70F79F17F07525400ED5E24,Recipient,,,Test SPL9 High School,954-5882213,,,"Oct 27, 2017",No,No,No,Yes,No,No
+"Lovetta, Smith",7B0BDB7C98AA58FE7F07525400ED5E24,Recipient,,,Test SPL9 High School,954-3039402,,"Apr 20, 2017","Sep 03, 2022",No,No,No,Yes,Yes,No
+"Lovina, Jean Baptiste",A82DA520F68079F17F07525400ED5E24,Recipient,,,Test SPL9 High School,754-2359638,,"Apr 20, 2017",,No,No,No,No,Yes,No
+"Madan, Jairo",33,Student,,,Automation Org - Do Not Delete,9813253,,,,Yes,Yes,Yes,No,No,Yes
+"Mae, Thomas",E90CF36FA8DB4F4C7F07525400ED5E24,Recipient,,,Test SPL9 High School,954-5848875,,"Apr 20, 2017",,No,No,No,No,Yes,No
+"Mahee, Kyshayla",24,Student,,,Automation Org - Do Not Delete,9813253,,,,Yes,Yes,Yes,No,No,Yes
+"Mamase, Dortelus",F2F16E5698A058FE7F07525400ED5E24,Recipient,,,Test SPL9 High School,954-5310066,,"Apr 20, 2017",,No,No,No,No,Yes,No
+"Marcia, Habersham",B241976BF66E79F17F07525400ED5E24,Recipient,,,Test SPL9 High School,954-7094001,954-488-4602,,"Apr 20, 2022",No,No,No,Yes,No,No
+"Maria, Serrano",9469986A98A058FE7F07525400ED5E24,Recipient,,,Test SPL9 High School,954-6384645,754-423-9723,,"Apr 06, 2020",No,No,No,Yes,No,No
+"Marie, Andre",508FFE78A8DD4F4C7F07525400ED5E24,Recipient,,,Test SPL9 High School,954-5310066,,"Apr 20, 2017",,No,No,No,No,Yes,No
+"Marie, Carius",E46446E9F65A79F17F07525400ED5E24,Recipient,,,Test SPL9 High School,954-6391125,,"Apr 20, 2017",,No,No,No,No,Yes,No
+"Marie, Neilan",481496C298A658FE7F07525400ED5E24,Recipient,,,Test SPL9 High School,954-5883735,954-513-7098,,"Feb 25, 2019",No,No,No,Yes,No,No
+"Martine, Lorimer",3DEDBB4698BB58FE7F07525400ED5E24,Recipient,,,Test SPL9 High School,954-4791680,,"Apr 20, 2017",,No,No,No,No,Yes,No
+"Mary Louise, Brite",B1FDBBE198A958FE7F07525400ED5E24,Recipient,,,Test SPL9 High School,954-6387897,,,"Dec 11, 2019",No,No,No,Yes,No,No
+"Mary, Nazhae",42,Student,,,Automation Org - Do Not Delete,9813253,,,,Yes,Yes,Yes,No,No,Yes
+"Mayor, Genio",87,Student,,,Automation Org - Do Not Delete,9813253,,,,Yes,Yes,Yes,No,No,Yes
+"McKay, Annie",4343,Community Member,,,Automation Org - Do Not Delete,111-222-3333,,,,No,Yes,Yes,No,No,Yes
+"McKay, Annie",4343,Principal,,,Automation Org - Do Not Delete,111-222-3333,,,,No,No,No,No,No,Yes
+"Micelaine, Sylvestre",0B33EC9BF61279F17F07525400ED5E24,Recipient,,,Test SPL9 High School,954-5340563,754-273-4503,,"Jun 09, 2016",No,No,No,Yes,No,No
+"Michele, Webster",976AB66998A958FE7F07525400ED5E24,Recipient,,,Test SPL9 High School,954-3836929,,,"Jun 06, 2022",No,No,No,Yes,No,No
+"Milton, Jessica",78,Student,,,Automation Org - Do Not Delete,9813253,,,,Yes,Yes,Yes,No,No,Yes
+"Mithun, Lorenzo",39,Student,,,Automation Org - Do Not Delete,9813253,,,,Yes,Yes,Yes,No,No,Yes
+"Myriam, Tuttle",EB2F0A0A989658FE7F07525400ED5E24,Recipient,,,Test SPL9 High School,954-2611532,,,"Jul 08, 2021",No,No,No,Yes,No,No
+"Nakeya, Henry",EF43DCAFF74379F17F07525400ED5E24,Recipient,,,Test SPL9 High School,754-2811351,,"Apr 20, 2017",,No,No,No,No,Yes,No
+"Natasha, Ocean",C43FD32398AC58FE7F07525400ED5E24,Recipient,,,Test SPL9 High School,754-3662263,954-549-3698,"Apr 20, 2017","Mar 12, 2018",No,No,No,Yes,Yes,No
+"Ngx, Augustin",5D2657BF98B658FE7F07525400ED5E24,Recipient,,,Test SPL9 High School,954-5318747,,"Apr 20, 2017","Jul 16, 2018",No,No,No,Yes,Yes,No
+"Nicole, Chanel",9EA98F99F67079F17F07525400ED5E24,Recipient,,,Test SPL9 High School,954-5601289,,,"Feb 25, 2022",No,No,No,Yes,No,No
+"Nina, Alison",65,Student,,,Automation Org - Do Not Delete,9813253,,,,Yes,Yes,Yes,No,No,Yes
+"Oberai, Chloe",99,Student,,,Automation Org - Do Not Delete,9813253,,,,Yes,Yes,Yes,No,No,Yes
+"Ottar, Jaylin",29,Student,,,Automation Org - Do Not Delete,9813253,,,,Yes,Yes,Yes,No,No,Yes
+"PA, HS",1196kr,Parent,"Test1, Student",studenttest1,SPL9 Middle School,1112225555,,"Sep 08, 2016",,No,Yes,Yes,No,Yes,No
+"Parvaty, Alexa",93,Student,,,Automation Org - Do Not Delete,9813253,,,,Yes,Yes,Yes,No,No,Yes
+"Parvaty, Brittany",92,Student,,,Automation Org - Do Not Delete,9813253,,,,Yes,Yes,Yes,No,No,Yes
+"Paula, Jones",D315DFEF98AC58FE7F07525400ED5E24,Recipient,,,Test SPL9 High School,954-2356857,,,"Jul 23, 2022",No,No,No,Yes,No,No
+"Paula, Ortiz",A508B78098BA58FE7F07525400ED5E24,Recipient,,,Test SPL9 High School,954-3661041,,"Apr 20, 2017",,No,No,No,No,Yes,No
+"Peter, Shykeria",83,Student,,,Automation Org - Do Not Delete,9813253,,,,Yes,Yes,Yes,No,No,Yes
+"Poorni, Teacher8",SunnyDaleTeacher_8,Teacher,,,Sunnydale High School,896-321-4792,,"Oct 18, 2022",,Yes,Yes,No,No,Yes,No
+"Prabhu, Jordan",85,Student,,,Automation Org - Do Not Delete,9813253,,,,Yes,Yes,Yes,No,No,Yes
+"Praveen, Sawan",26,Student,,,Automation Org - Do Not Delete,9813253,,,,Yes,Yes,Yes,No,No,Yes
+"Prevette, Jazmine",89,Student,,,Automation Org - Do Not Delete,9813253,,,,Yes,Yes,Yes,No,No,Yes
+"Rachit, Horacio",48,Student,,,Automation Org - Do Not Delete,9813253,,,,Yes,Yes,Yes,No,No,Yes
+"Raechel, Bradley",4B714293989858FE7F07525400ED5E24,Recipient,,,Test SPL9 High School,954-3039561,,,"May 01, 2018",No,No,No,Yes,No,No
+"Raj, Jasmine",13,Student,,,Automation Org - Do Not Delete,9813253,,,,Yes,Yes,Yes,No,No,Yes
+"Raja, Tymel",15,Student,,,Automation Org - Do Not Delete,9813253,,,,Yes,Yes,Yes,No,No,Yes
+"Rakshan, Jafaris",11,Student,,,Automation Org - Do Not Delete,9813253,,,,Yes,Yes,Yes,No,No,Yes
+"Ravi, Bryan",14,Student,,,Automation Org - Do Not Delete,9813253,,,,Yes,Yes,Yes,No,No,Yes
+"Renee, Dixon",C7CC262DF5FB79F17F07525400ED5E24,Recipient,,,Test SPL9 High School,305-8902038,305-504-9098,,"Apr 28, 2016",No,No,No,Yes,No,No
+"Robin, Chase",38,Student,,,Automation Org - Do Not Delete,9813253,,,,Yes,Yes,Yes,No,No,Yes
+"Rose Mimose, Cardichon",CFA00CBBF60D79F17F07525400ED5E24,Recipient,,,Test SPL9 High School,954-8031749,,,"Jun 02, 2017",No,No,No,Yes,No,No
+"Roxanne, Nowell",B3F037F198B858FE7F07525400ED5E24,Recipient,,,Test SPL9 High School,954-4654872,,,"Mar 05, 2018",No,No,No,Yes,No,No
+"Sabreen, Shelby",91,Student,,,Automation Org - Do Not Delete,9813253,,,,Yes,Yes,Yes,No,No,Yes
+"Sabrina, Merritt",0682F46E98A658FE7F07525400ED5E24,Recipient,,,Test SPL9 High School,754-2730094,,"Apr 20, 2017","Apr 14, 2022",No,No,No,Yes,Yes,No
+"Saha, Khadijah",60,Student,,,Automation Org - Do Not Delete,9813253,,,,Yes,Yes,Yes,No,No,Yes
+"Samdat, Surjie",8693950EF74079F17F07525400ED5E24,Recipient,,,Test SPL9 High School,954-4488546,,,"Apr 01, 2018",No,No,No,Yes,No,No
+"Samuel, Keane",23,Student,,,Automation Org - Do Not Delete,9813253,,,,Yes,Yes,Yes,No,No,Yes
+"Sandra, Diaz",2D658035F68079F17F07525400ED5E24,Recipient,,,Test SPL9 High School,954-3479400,,,"Mar 23, 2019",No,No,No,Yes,No,No
+"Sassha, Alexis",47,Student,,,Automation Org - Do Not Delete,9813253,,,,Yes,Yes,Yes,No,No,Yes
+"Satia, Horn",9AF563AD98BA58FE7F07525400ED5E24,Recipient,,,Test SPL9 High School,954-6587897,,"Apr 20, 2017","May 27, 2022",No,No,No,Yes,Yes,No
+"Shadi, Azammanesh",EA811DBFA8DB4F4C7F07525400ED5E24,Recipient,,,Test SPL9 High School,954-5993477,,,"Jul 31, 2019",No,No,No,Yes,No,No
+"Sharmila, Sarah",37,Student,,,Automation Org - Do Not Delete,9813253,,,,Yes,Yes,Yes,No,No,Yes
+"Shazia, Zaheer",8DE8DA3CF64079F17F07525400ED5E24,Recipient,,,Test SPL9 High School,954-8172326,,,"Mar 08, 2017",No,No,No,Yes,No,No
+"Sherry, Hont",FCF9DF3C98A558FE7F07525400ED5E24,Recipient,,,Test SPL9 High School,786-2815056,786-716-4490,"Mar 07, 2017","Apr 11, 2017",No,No,No,Yes,Yes,No
+"Sherry, Rottman",41CD0327F60D79F17F07525400ED5E24,Recipient,,,Test SPL9 High School,954-6079615,,"Apr 20, 2017",,No,No,No,No,Yes,No
+"Simone, Garcon",04564A33989C58FE7F07525400ED5E24,Recipient,,,Test SPL9 High School,786-3672905,,"Apr 20, 2017","Mar 04, 2019",No,No,No,Yes,Yes,No
+"Smith, Alison",232,Community Member,,,Automation Org - Do Not Delete,111-222-3333,,,,No,Yes,Yes,No,No,Yes
+"Smith, Alison",232,Principal,,,Automation Org - Do Not Delete,111-222-3333,,,,No,No,No,No,No,Yes
+"Sonia, Gates",BBF8399A989758FE7F07525400ED5E24,Recipient,,,Test SPL9 High School,954-6680754,786-616-3666,,"Jun 06, 2016",No,No,No,Yes,No,No
+"Staff1, Staff1",StaffA,Community Member,,,Test SPL9 High School,801-000-0000,,"Jul 20, 2022",,No,Yes,No,No,Yes,No
+"Staff1, Staff1",StaffA,Community Member,,,Test SPL9 High School,801-000-0000,,"Jul 20, 2022",,No,Yes,No,No,Yes,No
+"Staff1, Staff1",StaffA,Community Member,,,Test SPL9 High School,1,,"Mar 13, 2018",,No,Yes,No,No,Yes,Yes
+"Steffi, Erika",32,Student,,,Automation Org - Do Not Delete,9813253,,,,Yes,Yes,Yes,No,No,Yes
+"Stella, Ju'Quaves",90,Student,,,Automation Org - Do Not Delete,9813253,,,,Yes,Yes,Yes,No,No,Yes
+"Swaina, Williams",9A877C0398B358FE7F07525400ED5E24,Recipient,,,Test SPL9 High School,954-2958314,,,"Dec 06, 2019",No,No,No,Yes,No,No
+"Sylvia, Reid",81CE23D098B558FE7F07525400ED5E24,Recipient,,,Test SPL9 High School,954-8516560,904-452-3489,,"Jun 22, 2016",No,No,No,Yes,No,No
+"Tadaski, Moore",D4F0967BF70D79F17F07525400ED5E24,Recipient,,,Test SPL9 High School,954-3092955,,,"May 01, 2016",No,No,No,Yes,No,No
+"Tahnveer, Tristan",19,Student,,,Automation Org - Do Not Delete,9813253,,,,Yes,Yes,Yes,No,No,Yes
+"Tamil, Symone",53,Student,,,Automation Org - Do Not Delete,9813253,,,,Yes,Yes,Yes,No,No,Yes
+"Tamilan, Taylor",57,Student,,,Automation Org - Do Not Delete,9813253,,,,Yes,Yes,Yes,No,No,Yes
+"Teresa, Clay",70D1E1BB989A58FE7F07525400ED5E24,Recipient,,,Test SPL9 High School,954-2132832,,"Mar 07, 2017",,No,No,No,No,Yes,No
+"Test, D",DTest,Parent,,,SPL9 School District 99-3 R 10/39,9361399013,,"May 17, 2022",,No,Yes,No,No,Yes,No
+"Test, Prin",printest,Principal,,,Test SPL9 High School,8965412378,,"Sep 13, 2021",,Yes,No,No,No,Yes,No
+"Todd, Moore",3C93FE21F64379F17F07525400ED5E24,Recipient,,,Test SPL9 High School,954-3092955,,,"May 01, 2016",No,No,No,Yes,No,No
+"Tomasa, Fortaneli",ECE00A8B98A558FE7F07525400ED5E24,Recipient,,,Test SPL9 High School,954-6385651,954-934-5385,,"Apr 05, 2017",No,No,No,Yes,No,No
+"Trish, Isaiah",80,Student,,,Automation Org - Do Not Delete,9813253,,,,Yes,Yes,Yes,No,No,Yes
+"Valencia, Wilson",826BF0EA98A558FE7F07525400ED5E24,Recipient,,,Test SPL9 High School,917-9232526,917-715-3770,,"May 08, 2017",No,No,No,Yes,No,No
+"Vani, Samantha",71,Student,,,Automation Org - Do Not Delete,9813253,,,,Yes,Yes,Yes,No,No,Yes
+"Varun, Matthew",25,Student,,,Automation Org - Do Not Delete,9813253,,,,Yes,Yes,Yes,No,No,Yes
+"Veena, Trevon",54,Student,,,Automation Org - Do Not Delete,9813253,,,,Yes,Yes,Yes,No,No,Yes
+"Veronica, Gidron",8C5516C298A958FE7F07525400ED5E24,Recipient,,,Test SPL9 High School,954-8947330,,"Apr 20, 2017",,No,No,No,No,Yes,No
+"Warun, Tasean",44,Student,,,Automation Org - Do Not Delete,9813253,,,,Yes,Yes,Yes,No,No,Yes
+"Wasan, Charlotte",106,Student,,,Automation Org - Do Not Delete,9813253,,,,Yes,Yes,Yes,No,No,Yes
+"Wasan, Luke",105,Student,,,Automation Org - Do Not Delete,9813253,,,,Yes,Yes,Yes,No,No,Yes
+"Wesline, Elien",F56A7E6098AA58FE7F07525400ED5E24,Recipient,,,Test SPL9 High School,954-5494399,786-838-3536,,"Apr 17, 2017",No,No,No,Yes,No,No
+"William, Hunter",31,Student,,,Automation Org - Do Not Delete,9813253,,,,Yes,Yes,Yes,No,No,Yes
+"William, Sabrina",34,Student,,,Automation Org - Do Not Delete,9813253,,,,Yes,Yes,Yes,No,No,Yes
+"Willine, Louis",CC89884998B358FE7F07525400ED5E24,Recipient,,,Test SPL9 High School,954-5340059,,,"Oct 20, 2022",No,No,No,Yes,No,No
+"Yaquelin, Lazala",C8890402F6CE79F17F07525400ED5E24,Recipient,,,Test SPL9 High School,786-7047048,786-267-7574,,"Apr 09, 2019",No,No,No,Yes,No,No
+"Yolande, Williams",BC004B2198A358FE7F07525400ED5E24,Recipient,,,Test SPL9 High School,954-5880373,561-503-8966,,"Nov 06, 2017",No,No,No,Yes,No,No
+"Yoleine, Louis",BA72A098F68179F17F07525400ED5E24,Recipient,,,Test SPL9 High School,954-5842558,,"Apr 20, 2017",,No,No,No,No,Yes,No
+"Yovana, Bisumbor",2E17767F98A858FE7F07525400ED5E24,Recipient,,,Test SPL9 High School,305-6094480,,,"Jul 06, 2017",No,No,No,Yes,No,No
+"Yura, Yoon",YOONZ,Community Member,,,SPL9 School District 99-3 R 10/39,6590264594,,"May 10, 2022",,No,Yes,No,No,Yes,No
+bill.stuver@parentlink.net,C8CE15D1989E58FE7F07525400ED5E24,Recipient,,,Test SPL9 High School,bill.stuver@parentlink.net,,"Mar 08, 2017",,No,No,No,No,Yes,No
+bill.stuver@parentlink.net,110CEAD05701647D4F0B525400ED5E24,Recipient,,,Test SPL9 High School,bill.stuver@parentlink.net,,"Mar 08, 2017",,No,No,No,No,Yes,No
+"com1595, com1595",1126710C17F246056F00525400ED5E24,Community Member,,,"SPL9 School District 99-3 R 10/39, Test SPL9 High School",1234567890,,"Jul 23, 2020","Aug 28, 2020",No,Yes,No,Yes,Yes,No
+"com1620c, com1620c",com1620c,Community Member,,,"SPL9 School District 99-3 R 10/39, Test SPL9 High School",1234567890,,"Jul 23, 2020","Aug 28, 2020",Yes,Yes,Yes,Yes,Yes,No
+"community2, Member2",4,Community Member,,,Velammal,456-987-4562,,"Oct 08, 2021",,No,Yes,No,No,Yes,No
+"community3, Member3",5,Community Member,,,Velammal,456-987-4562,,"Oct 08, 2021",,No,Yes,No,No,Yes,No
+"community4, Member4",6,Community Member,,,Velammal,456-987-4562,,"Oct 08, 2021",,No,Yes,No,No,Yes,No
+"community5, Member5",7,Community Member,,,Velammal,456-987-4562,,"Oct 08, 2021",,No,Yes,No,No,Yes,No
+"community6, Member6",8,Community Member,,,Velammal,456-987-4562,,"Oct 08, 2021",,No,Yes,No,No,Yes,No
+"community7, Member7",9,Community Member,,,Velammal,456-987-4562,,"Oct 08, 2021",,No,Yes,No,No,Yes,No
+"conway, Devon",devon.conway,Parent,,,St. Antony's Higher Secondary School,202-981-3256,,"Oct 18, 2022",,No,Yes,No,No,Yes,No
+"craig, Daniel",70,Student,,,Automation Org - Do Not Delete,9813253,,,,Yes,Yes,Yes,No,No,Yes
+"middlead, middlead",middlead,Parent,,,SPL9 Middle School,5511122212,,"Jul 20, 2022",,No,Yes,No,No,Yes,No
+"powell, Kieran",kieran.powell,Principal,,,St. Antony's Higher Secondary School,202-981-3256,,"Oct 18, 2022",,No,Yes,No,No,Yes,No
+"principle1, principle1",admin1,District Administrator,,,SPL9 School District 99-3 R 10/39,1234567890,,"Jul 23, 2020","Aug 28, 2020",No,No,No,Yes,Yes,No
+"staffandparent2, staffandparent2",parent2,Community Member,,,"SPL9 Middle School, Test SPL9 High School",8010000000,,"Jul 20, 2022",,No,Yes,No,No,Yes,No
+"staffandparent2, staffandparent2",parent2,Community Member,,,"SPL9 Middle School, Test SPL9 High School",1,,"Mar 13, 2018",,No,Yes,No,No,Yes,Yes
+"staffandparent2, staffandparent2",parent2,Community Member,,,"SPL9 Middle School, Test SPL9 High School",8010000000,,"Jul 20, 2022",,No,Yes,No,No,Yes,No
+"t edited, t edited",ttttttttttt,Parent,,,Bayside High School,7896445634,,"Aug 24, 2022",,Yes,No,No,No,Yes,No
+"teacher, Bindhu",bindhu teacher,Teacher,,,Bayside High School,2021234567,,"Sep 13, 2021",,No,Yes,No,No,Yes,No
+"test, test",schooDadmin,School Administrator,,,"SPL9 Middle School, SPL9 School District 99-3 R 10/39",8010000001,,"Jul 20, 2022",,Yes,Yes,No,No,Yes,No

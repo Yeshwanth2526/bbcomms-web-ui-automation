@@ -1,0 +1,14 @@
+{
+"selectAccountTypeToUpload":"[id ='id_role_id_pick']",
+"selectOrganizationToAddAccounts":"[id='id_org_id_pick']",
+"uploadFile":"//input[@type='file']",
+"accountCreatedText":"//span[@id='fileUpload0Status'][contains(.,'Created')]",
+"accountMatchedText":"//span[@id='fileUpload1Status'][contains(.,'Matched')]",
+"communityMemberTextMatch":"//span[@id='fileUpload2Status'][contains(.,'Created')]",
+"parentTextMatch":"//span[@id='fileUpload3Status'][contains(.,'Created')]",
+"senderTextMatch":"//span[@id='fileUpload4Status'][contains(.,'Created')]",
+"studentTextMatch":"//span[@id='fileUpload5Status'][contains(.,'Created')]",
+"errorTextMatch":"//span[@id='fileUpload6Status'][contains(.,'Error')]",
+"modifyOrgName":"//input[@type='text'][@name='orgName']",
+"modifyOrgLastNameWithSpeChar":"//input[@type='text'][@name='orgName']"
+}

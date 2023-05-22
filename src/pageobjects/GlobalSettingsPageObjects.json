@@ -1,0 +1,12 @@
+{
+  "globalSettingsMenu": "//a[@href='/main/settings/global']",
+  "orgListTable": "//table[@id='orgListTable']",
+  "globalSettingsForm": "//form[@name='globalSettingsForm']",
+  "blackoutStartTimeHours": "//div[@ng-model='blackoutStartTime']//following::input[@ng-model='hours']",
+  "blackoutStartTimeMinutes": "//div[@ng-model='blackoutStartTime']//following::input[@ng-model='minutes']",
+  "blackoutStartTimeMeridian": "//div[@ng-model='blackoutStartTime']//following::button[@ng-click='toggleMeridian()']",
+  "blackoutEndTimeHours": "//div[@ng-model='blackoutEndTime']//following::input[@ng-model='hours']",
+  "blackoutEndTimeMinutes": "//div[@ng-model='blackoutEndTime']//following::input[@ng-model='minutes']",
+  "blackoutEndTimeMeridian": "//div[@ng-model='blackoutEndTime']//following::button[@ng-click='toggleMeridian()']",
+  "saveSettingsButton": "//button[contains(@class, 'buttonEasy')]"
+}

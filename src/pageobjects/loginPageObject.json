@@ -1,0 +1,12 @@
+{
+  "loginIdField": "[id= 'loginID']",
+  "passwordField": "[id = 'password' ]",
+  "signInButton": "[id = 'loginButton']",
+  "signOut":"(//span[@class='un-button un-link'])[4]",
+  "forgetPasswordLink": "//a[@href='/main/login/forgot-password']",
+  "forgetPasswordLoginID": "//input[@id='loginID']",
+  "forgetPasswordSendEmailButton": "//button[text()='Send Email']",
+  "forgetPasswordConfirmEmailButton": "//button[@onclick='emailConfirmed()']",
+  "forgetPasswordMailSentMessage": "//div[@id='passwordSentDiv']"
+
+}

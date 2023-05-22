@@ -1,0 +1,26 @@
+{
+    "compilerOptions": {
+        "outDir": "./.tsbuild/",
+        "sourceMap": false,
+        "target": "es2019",
+        "module": "commonjs",
+        "removeComments": true,
+        "noImplicitAny": false,
+        "strictPropertyInitialization": false,
+        "moduleResolution": "node",
+        "esModuleInterop": true,
+        "resolveJsonModule": true,
+        "strictNullChecks": false,
+        "types": [
+            "node",
+            "@wdio/mocha-framework",
+            "webdriverio/async",
+            "expect-webdriverio",
+            "@wdio/sauce-service",
+        ]
+    },
+    "include": [
+        "./config/**/*.ts",
+        "src/**/*.ts"
+    ]
+}

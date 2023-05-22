@@ -1,0 +1,122 @@
+School Report
+Created On:,"Nov 01, 2022"
+School:,All schools
+Roles:,All roles
+""
+School,Administrators,Staff Members,Teachers,Parents,Students,Other
+SPL9 School District 99-3 R 10/39,62,35,14,33,32,75
+    1.7Regression,0,0,0,1,0,2
+    Aachi Global School,3,1,4,16,8,0
+        New API Organization,0,1,7,0,0,1
+            child API school,0,0,1,0,0,0
+    Amelia &amp; Earhart,1,1,0,3,1,1
+    Anastasia Oppenheimer School of the Arts,0,0,0,0,0,0
+    Annie School,0,4,0,70,56,0
+    Assam Regression Reach School,2,1,3,2,2,5
+    AtoZ school of education,1,1,2,3,0,0
+        AtoZ Primary,0,0,1,1,1,0
+    Auto Release 10.33,2,0,0,0,0,0
+    Automation Org - Do Not Delete,7,67,102,13,116,4
+    Bangalore school of education,2,2,2,1,0,0
+        Bangalore - Kindergarden,0,0,0,0,0,0
+        Bangalore school of education - Elementary,2,2,2,2,0,1
+        Bangalore school of education - High,0,0,2,3,0,1
+        Bangalore school of education - Medium,0,0,3,3,0,3
+    Bayside High School,7,10,4,91,34,6
+    BBComms Performance DO NOT DELETE & DO NOT PERFORM ANY IMPORTS ON THIS,0,0,0,0,0,0
+    Branson Elementary,1,0,0,0,0,0
+    Demo School of education,0,0,1,1,2,0
+    District School of Automation,0,0,0,0,0,0
+    Game of Thrones Academy,0,0,0,1,0,2
+    GT_School_of_education,2,4,6,1,1,1
+        Global_school,1,2,2,1,0,0
+    HAYS CISD,2,0,0,0,0,2
+    Hillsboro-Deering Elementary School,0,0,0,0,0,0
+    Hillsboro-Deering High School,0,0,0,0,0,0
+    Hillsboro-Deering Middle School,0,0,0,0,0,0
+    Hogwarts School of Wizardy and Witchcraft,0,0,0,0,0,0
+    Hotfix school,1,1,2,0,0,1
+    Independence High School,0,0,0,0,0,0
+    Infra regression,0,0,0,0,0,1
+    Kochi School of Education,1,1,3,3,3,0
+        Kochi School of Education- Elementary,1,1,2,2,0,1
+        Kochi School of Education- Medium,1,1,2,2,0,0
+    Mangalore Academy,1,1,2,4,1,0
+        Mangalore Academy Elementary,0,0,3,2,1,1
+        Mangalore Academy High,0,0,2,2,0,0
+        Mangalore Academy Junior,0,0,1,2,0,0
+    Marshall Middle School,0,0,0,0,0,0
+    Masha School of Education,1,1,1,1,0,0
+    New oranization,0,0,0,0,0,0
+    NL school of education,0,0,0,0,0,0
+    NM School,0,0,3,0,0,0
+    Performace Test Schoool,0,0,0,0,0,1
+    Prabhuram High School,0,0,0,1,1,0
+    Public School Demo,0,1,0,1,2,0
+    Query School,1,1,1,1,1,1
+    Reach Regression 25,1,1,2,2,4,0
+    Regression 1.0 school,1,1,1,1,0,0
+    Regression 1.1 School,0,0,1,0,0,0
+    Regression Reach school,2,1,2,3,3,1
+        Regression Reach High school,0,0,1,0,0,0
+    Regression1.8_Do_Not_Delete,1,1,0,0,0,0
+    Release 10.29.0,0,0,0,0,0,1
+    Release 10.29.0 Auto Import,0,0,0,0,0,0
+    Release 10.30.0,0,0,0,0,0,3
+    Release 10.30.0 Auto Import,0,0,0,0,0,0
+    Release 10.31.0 Auto Import,0,1,0,0,0,1
+    Release 10.32.0 Auto Import,0,0,0,0,0,0
+    Release 10.34,0,0,0,0,0,0
+    Release 10.36,0,0,0,0,0,0
+    Release 10.39 _Auto Import,5,60,100,5,100,1
+    RG_DM_School,1,2,1,1,1,0
+    SAM_Institute,3,4,2,3,0,2
+        SAM_Elementary,0,2,0,0,0,0
+    SBBCOM 300 School 37,1,1,0,0,0,2
+    SBBCOM 300 School 38,0,0,0,0,0,0
+    SBBCOM 300 School 39,0,1,0,0,0,0
+    SBBCOM 300 School 40,0,0,0,0,0,0
+    SBBCOM 300 School 41,0,0,0,0,0,0
+    SBBCOM 300 School 42,0,0,0,0,0,0
+    SBBCOM 300 School 43,5,60,99,5,100,1
+    SBBCOM 300 School 45,0,0,0,0,0,0
+    SBBCOM 300 School 46,0,0,0,0,0,0
+    SBBCOM 300 School 47,0,0,0,0,0,0
+    SBBCOM 300 School 49,0,0,0,0,0,0
+    SBBCOM 300 School 50,0,0,0,0,0,0
+    SBBCOM 300 School 51,0,0,0,0,0,0
+    SBBCOM 300 School 53,0,0,0,0,0,1
+    SBBCOM 300 School 55,0,0,0,0,0,0
+    SBBCOM 300 School 56,0,0,0,0,0,0
+    SBBCOM 300 School 60,0,0,0,0,0,0
+    SBBCOM 300 School 61,0,0,0,0,0,0
+    SBBCOM 300 School 64,0,0,0,0,0,0
+    SBBCOM 300 School 65,0,0,0,0,0,0
+    SBOA,1,0,0,0,0,4
+    School_of_automation,0,0,0,0,2,1
+        District School of Automation,0,0,0,0,1,0
+    SPL9 Elementary,2,2,1,5,1,3
+        Automation institute,1,1,8,18,0,47
+    SPL9 Middle School,2,2,0,7,5,5
+    SPL9 Test,0,2,0,2,0,4
+    Springfield Elementary,1,0,0,4,6,0
+    Springtime Elementary from UK,0,0,0,1,0,1
+    St Barts,1,0,0,3,2,0
+    St Francis Legacy,0,0,0,0,0,1
+    St Patrick's Academy,0,0,0,0,0,2
+    St. Antony's Higher Secondary School,1,1,4,4,0,0
+    StageSchool,0,0,2,10,0,0
+    Student Regression,1,1,2,2,2,0
+    Sunnydale High School,0,0,9,11,11,1
+    Sunshine High School,1,1,8,9,10,0
+        Sunshine Elementary School,1,1,2,2,2,0
+        Sunshine Middle School,1,1,4,2,2,0
+    Sunshine school of education,1,1,2,7,2,1
+    Test Demo 1,0,0,0,0,0,0
+    Test site DMS,0,0,0,0,0,0
+    Test site2 DMS,0,0,0,0,0,0
+    Test SPL9 High School,12,25,16,47,39,10
+    Tom Landry Middle School,5,60,100,5,100,0
+    Velammal,1,0,0,0,0,7
+    Washington Elementary School,0,0,0,0,0,0
+    Westdale High School,3,1,3,10,7,2

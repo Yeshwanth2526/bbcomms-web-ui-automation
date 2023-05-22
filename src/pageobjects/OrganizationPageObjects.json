@@ -1,0 +1,23 @@
+{
+"districtOrganizationName":"//div[@id='universal-nav']/div[@class='un-right']/a[1]/span",
+"selectDistrictOrganization":"//a[starts-with(text(),'{organizationName}')]",
+"deliveryOptions":"//a[contains(text(),'Delivery Options')]",
+"tipLine":"//a[contains(@href, '/main/settings/org-config/tipline')]",
+"orgOptionHeading":"//h1[contains(text(),'{option}')]",
+"rssFeedText":"//div[@class='pl-post-description' and contains(text(),'{rssMessage}')]",
+"rssFeedSubject":"//div[@class='pl-post-title']/a[contains(text(),'{rssSubject}')]",
+"automationTipCategory":"//td[contains(@class,'tip-setting-label')][normalize-space()='Categories']//following::ul[@class='tip-settings']/li[normalize-space()='AutomationTip']",
+"tipCategoryInput":"//input[@id='tipCategory']",
+"tipCategoryAddButton":"//input[@id='tipCategory']//following::button[text()='Add']",
+"toggleWidget":"//button[@id='toggleWidgetButton']",
+"widgetPreview":"//div[@id='widgetPreview']",
+"tipBody":"//*[@id='pl_tipBody']",
+"tipCategory":"//*[@id='pl_category']",
+"tipOrganization":"//*[@id='pl_organization']",
+"submitTip":"//button[@value='Submit Tip']",
+"tipSuccessMessage":"//div[@class='pl-success']",
+"tipManagerTable":"//table[@class='table-tipmanager']",
+"selectTipByID":"//td[normalize-space()='{tipID}']",
+"modifyOrgName":"//input[@type='text'][@name='orgName']",
+"saveOrgSettingsButton":"//*[@id='ng-app']/div/div[2]/form/div[1]/div[2]/div/button"
+}

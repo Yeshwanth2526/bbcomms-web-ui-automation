@@ -1,0 +1,17 @@
+{
+    "AllOrgs": "//a[contains(.,'All Orgs')]/parent::div",
+    "FeedsContainer": "/div[@id='socialMediaPostList']",
+    "LastFeed": "(//div[@class='socialPost'])[last()]",
+    "FbMessage": "//div[@class='postHeaderLine3 float-container'][contains(.,'Facebook Message')]",
+    "TwitterMessage": "//div[@class='postHeaderLine3 float-container'][contains(.,'Twitter Message')]",
+    "TwitterReplayButton": "//i[@title='reply']",
+    "commentTextArea": "//textarea[@ng-model='replyText']",
+    "PostButton": "//button[@class='buttonEasy replyButton']",
+    "FbDialogBox": "//div[@class='socialConversation float-container facebookConversation']",
+    "TwitterDialogBox": "//div[@class='socialConversation float-container twitterConversation']",
+    "commentsContainer": "//div[@class='postHeader float-container']",
+    "ConfirmDeletedComments": "//span[@ng-if='post.deleted']",
+    "deleteIcon": "//i[@title='delete']",
+    "FbcloseIcon": "(//div[@class='socialConversation float-container facebookConversation']//div[@class='modalControl socialModalClose']/i)[last()]",
+    "TwitterCloseIcon": "(//div[@class='socialConversation float-container twitterConversation']//div[@class='modalControl socialModalClose']/i)[last()]"
+}

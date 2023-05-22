@@ -1,0 +1,11 @@
+{
+"addSurveyButton":"//button[@class='button'][contains(text(),'Add')]",
+"removeSurveyButton":"//button[@class='button'][contains(text(),'Remove')]",
+"selectSchoolDropDown":"//select[@id='id_orgID']",
+"SurveyName":"//input[@id='id_surveyName']",
+"addQuestion":"//button[@name='Add Question']",
+"selectQuestionTextField":"//textarea[@name='question']",
+"selectResponseType":"//select[@id='id_responseType']",
+"saveButton":"//button[@name='Save']",
+"selectResponseField":"//textarea[@id='id_responseOptions']"
+}

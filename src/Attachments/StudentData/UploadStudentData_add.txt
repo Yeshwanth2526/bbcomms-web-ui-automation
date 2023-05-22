@@ -1,0 +1,2 @@
+student id	Balance
+api_automation_student	$10.0

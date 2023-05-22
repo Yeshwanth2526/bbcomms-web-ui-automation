@@ -1,0 +1,15 @@
+{"Test":
+ {
+  "BBComInvalidLoginErrorMessage": "Your login ID or password was incorrect. Please try again.",
+  "BBComInvalidLoginErrorManyAttemptMessage":"Too many failed login attempts. You've been locked out for 15 minutes.",
+  "BBReachInvalidLoginErrorMessage": "Invalid username and password",
+  "BBCommsLoginPageTitle": "Sign In - Blackboard",
+  "BBCommsHomePageTitle": "Home - Blackboard"
+  
+},
+"ApplicationNames":
+{
+    "Reach": "BB Reach", 
+    "BBComms": "Bb Communications" 
+}
+}
